@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basic Kotlin</string>
+    <string-array name="menu_utama">
+        <item>Toast</item>
+        <item>Alert Dialog</item>
+        <item>Input User</item>
+        <item>RecyclerView</item>
+        <item>WebView</item>
+    </string-array>
+</resources>
